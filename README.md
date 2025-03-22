@@ -1,16 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=ESKOBA%20MD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+ESKOBA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ESKOBA OWNER+RUKA" alt="Typing SVG" /></a>
-  </p>
-  
---- 
-
-
-
-
+---
 
 > **CURRENT BOT VERSION ➜ `3.0.0 ⚡`**
 ---
@@ -20,12 +10,12 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+ALI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ALI+INXIDE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR RUKA+ESKOBA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ESKOBA+INXIDE" alt="Typing SVG" /></a>
   </p>
   
 --- 
 
-<a><img src='https://cdn.ironman.my.id/i/2du3i5.jpg'/></a>
+<a><img src='https://i.ibb.co/Q39CnPKH/8293473eb7c99088.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -34,27 +24,28 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 
-### 1. 𐃁FORK THIS REPOSITORY𐃁
+### 1. 𐃁FORK THIS REPOSITORY IN BOT𐃁
 
-`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+`FORK 🍴 AND STAR 🚀 IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/itx-alii-raza/ALI-MD/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-ALI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
-  
+  <a href="https://github.com/RED-SAMURAY1/ESKOBA_MD/fork"><img title="ESKOBA-MD" src="https://img.shields.io/badge/FORK-ESKOBA%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+
+---
+
+
 ### 2. 𐃁GET SESSION ID𐃁 
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
-
-> **1. PAIR CODE SESSION ID**
+> **1. ESKOBA PAIR CODE SESSION ID**
 
 <a href='https://ali-md-web-qr-pair-z8r2.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
-> **2. PAIR CODE SESSION ID**
+> **2. THA PAIR CODE SESSION ID🚀**
 
-<a href='https://ali-md-pair-69ad509c920e.herokuapp.com/' target="_blank">
+<a href='https://session-site-ruka.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -63,7 +54,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁ALI-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁ESKOBA-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -72,7 +63,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 <p align="">
-<a href='https://deploy-web-five.vercel.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=160 height=30/p></a>
+<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRED-SAMURAY1%2FESKOBA_MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=160 height=30/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
