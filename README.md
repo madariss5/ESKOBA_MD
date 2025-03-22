@@ -8,25 +8,9 @@
   
 --- 
 
-<div align="center" class= "main"> 
-  <img src="https://files.catbox.moe/8oogug.webp"width="300" height="300"/>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-***
 
 
 
-  <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
 
 > **CURRENT BOT VERSION ➜ `3.0.0 ⚡`**
 ---
