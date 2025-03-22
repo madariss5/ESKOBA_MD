@@ -66,12 +66,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRED-SAMURAY1%2FESKOBA_MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=160 height=30/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <h4 align="">2. TALKDROVE FREE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -106,7 +100,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
  
 
-## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
+## <h3 align=""> 💐HOW TO DEPLOY ON HUGGING FACE🙂‍↕️</h3>
 <h6 align-"center">
 *❄️ Deploy ali-md On Hugging Face For Free !*
 
@@ -120,7 +114,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/itx-alii-raza/ALI-MD
+1. Go to https://huggingface.co/spaces/RED-SAMURAY1/ESKOBA_MD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -131,16 +125,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 2. Tap on *duplicate space shown below*
 
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS PIKABOTZ🎐
-
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
-
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 ### <h4 align="">7. REPLIT</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -150,23 +134,23 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+## 🪦 PROJECT OWNER 
+The main owner of this project is dead, so make a sacrificial offering to contact the owner࿐➺
 
 <p align="">
-<a href='https://wa.me/+923003588997?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://t.me/legionofdoom999?text=*ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🪀 WHATSAPP CHANNEL 
-STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+## ⛩️ WHATSAPP CHANNEL 🪾
+Join the WhatsApp channel to get updates of this WhatsApp bot where you will also get special tools and special skills.
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb0pFMeGOj9r28xCQJ0w)
 
 ## 🪀 WHATSAPP GROUP
-JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+Join the WhatsApp channel to get updates of this WhatsApp bot where you will also get special tools and special skills.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Lx7sDv7jSy0CCTm5AliPdq)
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb0pFMeGOj9r28xCQJ0w)
 
  
 
@@ -176,15 +160,14 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 ## <h2 align="left">⚠️ REMINDER </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- **DISCLAIMER:** THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
-- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
+- **DISCLAIMER:** MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
 - I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
 
 ---
 
 <h2 align="left">ℹ️ NOTICE</h2>
 <p style="text-align: center; font-size: 1.2em;">
-  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
+  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM.PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
   
 ---
 
@@ -194,13 +177,13 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
  
  ---
 
-<h3 align="center"> DON'T COPY WITHOUT PERMISSION 
+<h3 align="center"> DON'T COPY WITHOUT PERMISSION. Please get someone's permission
 </h3>
 
 <br>
 
 ```
-THANK YOU TOHID, JAWAD, KERM & YOU SUPPORTERS
+THANK YOU DINESH , DINUWA , ALI MD OWNER🫂❤️‍🩹
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
