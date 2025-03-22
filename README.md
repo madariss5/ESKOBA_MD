@@ -98,32 +98,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 <b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
- 
-
-## <h3 align=""> 💐HOW TO DEPLOY ON HUGGING FACE🙂‍↕️</h3>
-<h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
-
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/RED-SAMURAY1/ESKOBA_MD
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
 
 
 ### <h4 align="">7. REPLIT</h4>
@@ -181,6 +155,7 @@ Join the WhatsApp channel to get updates of this WhatsApp bot where you will als
 </h3>
 
 <br>
+---
 
 ```
 THANK YOU DINESH , DINUWA , ALI MD OWNER🫂❤️‍🩹
@@ -191,3 +166,27 @@ THANK YOU DINESH , DINUWA , ALI MD OWNER🫂❤️‍🩹
 -----
 
 
+## <h3 align=""> 💐HOW TO DEPLOY ON HUGGING FACE🙂‍↕️</h3>
+<h6 align-"center">
+*❄️ Deploy ali-md On Hugging Face For Free !*
+
+`Specs :`
+- v2 CPU
+- 16GB RAM
+
+> `Steps to deploy`
+
+`Step 1`
+1. Go to hugginface.co/join and create an account and verify your email too.
+
+`Step 2`
+1. Go to https://huggingface.co/spaces/RED-SAMURAY1/ESKOBA_MD
+
+2. Tap on *three dots* _(as shown in image)_
+
+3. Tap on *duplicate space* _(as shown in image)_
+
+`Step 3`
+1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
+
+2. Tap on *duplicate space shown below*
